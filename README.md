@@ -1,2 +1,2 @@
 # hstore
-HStore utily class
+Class for HStore content manipulation
